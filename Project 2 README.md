@@ -1,6 +1,6 @@
 Superstore analysis project link: https://public.tableau.com/views/Sprint5project_17447343504280/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-The purpose for this project is to find out what was the main cause of returns and to make a dashboard for monitoring returns. I made a map chart showing the average return rate
+The purpose for this project is to find out what was the main cause of returns and to understand what is causing customers to return their orders and how to reduce the volume of returned orders and make a dashboard for monitoring returns. I made a map chart showing the average return rate
  for each state to give a better picture of what state was having the most returns. I also made a dual dot chart to show the amount of total sales of sub-categories to the number of returns.
 This helped to show what was being returned the most, I also added a tooltip to show how much money was lost for the total returns of the sub-category.
 I also added a bar chart showing the average return rate of each  one of the three categories. This helps to show what product had the most returns. This chart shows that technology had the most.
